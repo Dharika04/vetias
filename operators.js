@@ -1,4 +1,4 @@
-// \Arithmetic operators
+//Arithmetic operators
 var a=10;
 var b=40;
 console.log("Arithmetic operator");
@@ -37,13 +37,14 @@ console.log(!a>10); //logical not
 
 // Unary operator
 console.log("unary operator");
-console.log(a++);
-console.log(a--);
-console.log(--a);
-console.log(++a);
+console.log(a++);  //post increment
+console.log(a--);  //post decrement
+console.log(--a);  //pre decrement
+console.log(++a);  //pre increment
 
 
 // Conditional/Ternary operator
 console.log("Conditional operator");
 var result=(a>b)? "a is greater" : "b is greater";
+// var variableName=(condition)?truevalue:falsevalue;
 console.log(result);
