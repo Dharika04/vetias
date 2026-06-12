@@ -1,6 +1,7 @@
 // arithmetic operators
 var a=10;
 var b=40;
+console.log("Arithmetic operator");
 console.log(a+b); //addition
 console.log(a-b); //subtraction
 console.log(a*b); //multiplication
@@ -24,3 +25,9 @@ console.log(a==b); //equal to
 console.log(a!=b); //not equal to
 console.log(a<=b);  // less than or equal to 
 console.log(a>=b);  // greater than or equal to
+console.log(a>b); // less than
+console.log(a>b); // greater than
+
+// logical operator
+console.log("logical operator");
+
