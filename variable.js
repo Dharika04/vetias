@@ -7,7 +7,7 @@ console.log(name)
     let age="30"
     console.log(age)
 }
-
+g
 //variable declaration using const 
 const days="monday"
 console.log(days)
