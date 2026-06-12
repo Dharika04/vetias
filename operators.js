@@ -30,4 +30,7 @@ console.log(a>b); // greater than
 
 // logical operator
 console.log("logical operator");
+console.log(a>10 && b>30); //logical And
+console.log(a>10 || b>30); //logical or
+console.log(!a>10); //logical not 
 
