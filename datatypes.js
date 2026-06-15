@@ -37,6 +37,7 @@ var Undefined="undefined"
 console.log(undefined)
 
 
+
 //Non Primitive type
 console.log("Non primitive data type")
 
