@@ -10,7 +10,7 @@ console.log("college name:",collegename)
 
 //Template literals
 let studentname="arun";
-console.log(`welcome ${studentname}to ${collegename}`)
+console.log(`welcome ${studentname} to ${collegename}`)
 
 
 

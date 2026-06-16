@@ -1,13 +1,15 @@
 // variable declaration
+
 var name ="vetias"
 console.log(name)
 
-// variable declaration using lrt
+// variable declaration using let
 {
     let age="30"
     console.log(age)
 }
-g
+
+
 //variable declaration using const 
 const days="monday"
 console.log(days)
